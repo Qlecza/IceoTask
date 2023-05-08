@@ -1,0 +1,19 @@
+{
+  "name": "iceotask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js features/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.2",
+    "pactum": "^3.4.0"
+  },
+  "dependencies": {
+    "yaml": "^2.2.2"
+  }
+}
